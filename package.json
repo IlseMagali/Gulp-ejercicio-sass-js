@@ -1,0 +1,24 @@
+{
+  "name": "gulp-guiado-dos",
+  "version": "1.0.0",
+  "description": "gulp exercise 2",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "files-exist": "^1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ilse Keymolen",
+  "license": "ISC"
+}
